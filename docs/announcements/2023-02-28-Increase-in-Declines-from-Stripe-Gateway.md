@@ -1,4 +1,4 @@
-# 2023-02-28-Increase-in-Declines-from-Stripe-Gateway
+# 2023-02-28 Increase in Declines from Stripe Gateway
 
 We have multiple merchants experiencing an increase in declines when storing credit cards within the Stripe payment gateway beginning in early February. Further investigation by our developers did not find any changes on our end that would result in these declines.
 

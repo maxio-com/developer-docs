@@ -140,6 +140,11 @@
         },
         {
           "type": "item",
+          "title": "2023-02-28 Increase in Declines from Stripe Gateway",
+          "uri": "docs/announcements/2023-02-28-Increase-in-Declines-from-Stripe-Gateway.md"
+        },
+        {
+          "type": "item",
           "title": "2023-02-01 Limitations to custom fields",
           "uri": "docs/announcements/2023-02-01-Limitations-To-Custom-Fields.md"
         },
